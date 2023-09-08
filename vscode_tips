@@ -1,4 +1,4 @@
-1.注释相关的文档：https://www.python100.com/html/110942.html
+1.  注释相关的文档：https://www.python100.com/html/110942.html
 单行或者批量注释快捷键  选中要注释的内容    ctrl+/
 块注释     Alt+shift+A
 
@@ -7,5 +7,24 @@
 // ? 这是一个问题
 // ! 这是一个警告
 
-2.
+2.  Mac上配置conda
+打开terminal
+vi ～/.bashrc
+export PATH="~/anaconda3/bin:$PATH"
+保存后 . ~/.bashrc
+conda —version.  查看conda的version
+conda env list    查看condo 的环境
+相关的链接：https://blog.csdn.net/euzmin/article/details/123085469
 
+3.  创建conda环境
+conda  create -n myenv python=3.7    #创建一个名字叫myenv 并且有python=3.7的环境
+conda activate myenv  #激活创建的环境
+conda install pip   #安装pip
+pip install tensorflow==2.4。 #安装tf
+python install ipkykernel  #将新建的环境加到jupyter的kernel环境
+
+
+
+
+
+	
