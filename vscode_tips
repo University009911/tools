@@ -23,8 +23,9 @@ conda install pip   #安装pip
 pip install tensorflow==2.4。 #安装tf
 pip install ipkykernel  #将新建的环境加到jupyter的kernel环境
 
-4. tensorflow推荐的 youtube
+4. 学习tensorflow推荐的 youtube
 https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi    比较形象的神经网络讲解
 
 
 
