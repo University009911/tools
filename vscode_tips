@@ -21,7 +21,7 @@ conda  create -n myenv python=3.7    #创建一个名字叫myenv 并且有python
 conda activate myenv  #激活创建的环境
 conda install pip   #安装pip
 pip install tensorflow==2.4。 #安装tf
-python install ipkykernel  #将新建的环境加到jupyter的kernel环境
+pip install ipkykernel  #将新建的环境加到jupyter的kernel环境
 
 
 
