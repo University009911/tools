@@ -17,8 +17,8 @@ conda env list    查看condo 的环境
 相关的链接：https://blog.csdn.net/euzmin/article/details/123085469
 
 3.  创建conda环境
-conda  create -n myenv python=3.7    #创建一个名字叫myenv 并且有python=3.7的环境
-conda activate myenv  #激活创建的环境
+conda  create -n py37tf24 python=3.7    #创建一个名字叫myenv 并且有python=3.7的环境
+conda activate py37tf24  #激活创建的环境
 conda install pip   #安装pip
 pip install tensorflow==2.4 #安装tf
 pip install ipkykernel  #将新建的环境加到jupyter的kernel环境
@@ -27,8 +27,12 @@ pip install ipkykernel  #将新建的环境加到jupyter的kernel环境
 https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi    比较形象的神经网络讲解  英文的
 
-
-
+5. 本地电脑配置下载git上内容
+下载MobaXterm 这个终端软件
+ssh-keygen -t rsa   产生key   连续回车三次
+cd ~/.ssh   然后ls
+把id_rsa.pub 里面内容放到git的setting里面
+git clone XXX
 
 
 	
