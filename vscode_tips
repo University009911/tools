@@ -34,5 +34,10 @@ cd ~/.ssh   然后ls
 把id_rsa.pub 里面内容放到git的setting里面  https://github.com/settings/keys
 git clone XXX
 
+6. Model相关的网页
+https://www.52txr.cn/2022/metricslossacc.html  卷积model的配置 minst数据集  数字识别   代码来源  可以跟着flow\tensorflow_learning\Basics\tutorial3-neuralnetwork.py比较着看     
+https://www.youtube.com/watch?v=w8yWXqWQYmU    Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook  code   Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
+https://www.toutiao.com/video/7247764024165663292/?app=news_article&timestamp=1694226272&share_uid=MS4wLjABAAAAm-OlkKqtALEN3rIsr-ZAw8U9HtCzimu4owWNKXjw3c69fLUCvee7PB1S7amBHaM9&is_hit_share_recommend=0&utm_campaign=client_share&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&share_token=b51327e5-8c8f-4ac3-9109-e0c9391ff84c&source=m_redirect&wid=1694232994352       讲解神经网络核很好的中文视频  卷积 relu 池化
 
 	
