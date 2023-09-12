@@ -42,3 +42,4 @@ https://www.toutiao.com/video/7247764024165663292/?app=news_article&timestamp=16
 https://luweikxy.gitbook.io/machine-learning-notes/self-attention-and-transformer     Self-Attention和Transformer   有代码
 https://zhuanlan.zhihu.com/p/48508221     详解Transformer （Attention Is All You Need）
 	
+https://www.tensorflow.org/text/tutorials/transformer   Google的TensorFlow官方的，用tf keas实现
