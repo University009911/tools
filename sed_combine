@@ -1,3 +1,3 @@
-布|<new_genre> 鲁|<new_genre> 斯|<new_genre>
-布|<genre> 鲁|<genre> 斯|<genre>
-/mnt/nlu/users/tao.yu/resources_integration/original_repos/zh-CN/zh-CN/NCS5.1/CTagger/data/jiras_train/ONENLU-209733.fieldannotatedstring
+date_time:get:date  今|<date=d=0> 天|<date=d=0> 是|<unk> 星|<unk> 期|<unk> 几|<unk>
+date_time:get:day_of_week  今|<date=d=0> 天|<date=d=0> 是|<unk> 星|<unk> 期|<unk> 几|<unk>
+./anno-lang/cmn-CHN/CTagger/data/special-sets/
